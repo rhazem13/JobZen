@@ -1,0 +1,1 @@
+## A Job finding platform with Next.js and .NET Core
